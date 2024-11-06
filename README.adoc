@@ -60,7 +60,7 @@ The multi-module Maven project is made up of the following modules:
 
 
 
-## **Project Upgrade Details**
+# **Sample Code Upgrade Details**
 
 ### **Spring Boot 3 Version Upgrade**
 - This project has been upgraded to Spring Boot version 3.
