@@ -1,3 +1,5 @@
+# **Spring in action sample code**
+<br>
 = Taco Cloud v0.0.6
 
 This folder contains the source code for the Taco Cloud sample from Spring in Action, 5th edition, as presented in Chapter 6.
@@ -54,3 +56,18 @@ The multi-module Maven project is made up of the following modules:
  - `tacocloud-ui` : A Typescript Angular UI
  - `tacocloud-web` : The web module (largely leftovers from previous chapters. TODO: Clean up and remove.)
  - `tacos` : The main module that pulls the other modules together and provides the Spring Boot main class.
+
+
+
+## **Project Upgrade Details**
+
+### **Spring Boot 3 Version Upgrade**
+- This project has been upgraded to Spring Boot version 3.
+- Leveraging the latest features and improvements of Spring Boot 3, it now offers enhanced performance and stability.
+
+### **TacoCloud UI Upgrade**
+- The `tacocloud-ui` has been updated to the latest version.
+- New UI components and styles have been added to enhance the user experience.
+
+
+이 내용으로 `README.md` 파일에 프로젝트 업그레이드 내용을 강조하여 추가할 수 있습니다.
