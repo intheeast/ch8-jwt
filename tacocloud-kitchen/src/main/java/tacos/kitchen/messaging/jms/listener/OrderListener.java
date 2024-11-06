@@ -21,6 +21,7 @@ public class OrderListener {
     this.ui = ui;
   }
 
+  // publish/subscribe에서 subscribe role...
   @JmsListener(destination = "tacocloud.order.queue3")
   public void receiveOrder(Order order) {
 	  log.info("OrderListener.receiveOrder" + order);
